@@ -1,6 +1,7 @@
 {
   "name": "tsup-fileloc",
   "version": "0.1.0",
+  "private": true,
   "description": "tsup & esbuild-plugin-fileloc bug",
   "bin": "dist/index.js",
   "scripts": {
